@@ -2,7 +2,7 @@
 
 **Module:** Machine Learning - Ensemble Learning Assignment  
 **Student:** Attanayake AMSL (`224016H`)  
-**Live Hosted Dashboard:** https://automataassignmentml-dgz85rykfhwevvlamnghgz.streamlit.app/  
+**Live Hosted Dashboard:** https://ml-assignment-01-xlziy2xsqmwi53stdg8cdb.streamlit.app/  
 **Dataset:** Real Daily Meteorological Data for 12 Sri Lankan Cities (2015-2024, 43,836 observations) via ECMWF ERA5 Reanalysis / Open-Meteo Historical Weather API.
 
 ---
@@ -96,7 +96,7 @@ SL_Weather_Ensemble_ML/
 ## 4. Live Hosted Dashboard & Local Execution
 
 ### Live Dashboard
-- **Hosted Application URL:** https://automataassignmentml-dgz85rykfhwevvlamnghgz.streamlit.app/
+- **Hosted Application URL:** https://ml-assignment-01-xlziy2xsqmwi53stdg8cdb.streamlit.app/
 
 ### How to Run Locally
 
